@@ -1,0 +1,49 @@
+body{
+	background-image : url(livre.jpg);
+}
+
+
+
+
+.formConnexion form {
+  width: 30%;
+  margin : 3% auto;
+  display: flex;
+  flex-direction: column;
+  border : solid 0.5px black;
+  padding: 10px;
+  background-color: #63003C;
+  color : white;
+  text-align : center;
+
+ 
+  
+ 
+}
+
+.formConnexion form div {
+
+  margin: 3%;
+
+}
+
+.formConnexion button {
+  width: 62%;
+  margin: 10px auto;
+  height: 2em;
+  background-color : black;
+  display : center;
+  color : white;
+}
+
+.formConnexion div input {
+  width : 60%;
+  background-color : #DCDCDC;
+  display : center;
+}
+
+.formConnexion div a {
+	
+color : white;
+	
+}
